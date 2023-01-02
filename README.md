@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aman Bishnoi
 - 👀 I’m interested in Web Development & Android Development
-- 🌱 I’m currently learning Ionic
+- 🌱 I’m currently learning Ionic/php
 - 💞️ I’m looking to collaborate on android project
 - 📫 How to reach me ...
 
